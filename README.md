@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PrathamJain1601
+- 👀 I’m interested in  C/C++, Python, AI&ML and web development.
+- 🌱 I’m currently pursuing my undergraduate in computer sciene and Engineering from Lovely Professional University.
+- 📫 My Linkedin profile:
